@@ -5,5 +5,7 @@ public class App {
         System.out.println("Czesc");
         System.out.println("Pan jestes git");
         System.out.println("cos");
+
+        System.out.println("Coś nowego!!");
     }
 }
